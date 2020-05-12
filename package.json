@@ -1,6 +1,5 @@
 {
-  "name": "music-master",
-  "homepage": "http://rashaabdulrazzak.github.io/Musicfinder",
+  "name": "music-master",  
   "version": "0.1.0",
   "private": true,
   "dependencies": {
