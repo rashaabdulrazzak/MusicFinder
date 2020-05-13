@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Musicfinder/static/css/main.f76464f4.chunk.css",
+    "main.js": "/Musicfinder/static/js/main.537d453a.chunk.js",
+    "main.js.map": "/Musicfinder/static/js/main.537d453a.chunk.js.map",
+    "runtime-main.js": "/Musicfinder/static/js/runtime-main.7284155b.js",
+    "runtime-main.js.map": "/Musicfinder/static/js/runtime-main.7284155b.js.map",
+    "static/css/2.69121389.chunk.css": "/Musicfinder/static/css/2.69121389.chunk.css",
+    "static/js/2.a88633a5.chunk.js": "/Musicfinder/static/js/2.a88633a5.chunk.js",
+    "static/js/2.a88633a5.chunk.js.map": "/Musicfinder/static/js/2.a88633a5.chunk.js.map",
+    "index.html": "/Musicfinder/index.html",
+    "precache-manifest.4baf9f98576adb722ffa0f5e43d87f8f.js": "/Musicfinder/precache-manifest.4baf9f98576adb722ffa0f5e43d87f8f.js",
+    "service-worker.js": "/Musicfinder/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/Musicfinder/static/css/2.69121389.chunk.css.map",
+    "static/css/main.f76464f4.chunk.css.map": "/Musicfinder/static/css/main.f76464f4.chunk.css.map",
+    "static/js/2.a88633a5.chunk.js.LICENSE.txt": "/Musicfinder/static/js/2.a88633a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7284155b.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.a88633a5.chunk.js",
+    "static/css/main.f76464f4.chunk.css",
+    "static/js/main.537d453a.chunk.js"
+  ]
+}
