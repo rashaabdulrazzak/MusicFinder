@@ -1,3 +1,16 @@
+# Musicfinder 
+
+it is a react application used to search about music albums using Spotfy api to get the information about artists, albums and tracks 
+
+live demo : https://rashaabdulrazzak.github.io/Musicfinder/
+
+image of final result :
+
+<img src='screenshot/screenshot.png'>
+
+### Links
+the app is built by following a course on Udemy called Master React Web Development : http://udemy.com/react-redux-bootcamp
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
